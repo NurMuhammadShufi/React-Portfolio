@@ -39,7 +39,7 @@ const Portfolio = () => {
             <h3>Ultimate LinkTree</h3>
             <div className="portfolio__item-cta">
               <a href="https://github.com/NurMuhammadShufi" className='btn' target='_blank'>Github</a>
-              <a href="https://github.com/NurMuhammadShufi" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://my-link-tree-mu.vercel.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
       </div>
