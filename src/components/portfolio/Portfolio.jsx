@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/portfolio1.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 
 
@@ -16,20 +16,20 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-            <h3>Small & Medium Enterprise Profile</h3>
+            <h3>Web Application Product Inventory</h3>
             <div className="portfolio__item-cta">
               <a href="https://github.com/NurMuhammadShufi" className='btn' target='_blank'>Github</a>
-              <a href=" https://nurmuhammadshufi.github.io/EsPodeng-Mia/" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://aplikasi-inventaris.000webhostapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div> 
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-            <h3>Web Application Product Inventory</h3>
+            <h3>3D Motion Graphic Liquid</h3>
             <div className="portfolio__item-cta">
               <a href="https://github.com/NurMuhammadShufi/" className='btn' target='_blank'>Github</a>
-              <a href="https://aplikasi-inventaris.000webhostapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://drive.google.com/file/d/1UbGopOpUQmAgi22oeFsCDRoZHo21bhqb/view?usp=share_link" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
         <article className="portfolio__item">
